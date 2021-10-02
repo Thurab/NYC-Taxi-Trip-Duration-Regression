@@ -21,7 +21,7 @@ The data set contains the data regarding several taxi trips and its duration in 
 
 •	Trained 80% and Tested 20% with the data.
 
-•	Applied various models to the training and testing data to predict trip duration.
+•	Applied various models to the training and testing data to predict trip duration. The models include Linear Regression, Lasso Regression, Ridge Regression, Elastic Net Regression and XGBoost Regressor
 
 •	Applied GridCV cross validation to figure out the learning rate and regression strength of the model to come up with good R2 score.
 
